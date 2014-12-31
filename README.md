@@ -6,4 +6,6 @@ Run `thin_dict.thin(jsn, any_keys=())`, where `jsn` is a JSON object and `any_ke
 
 Run `thin_dict.pprint(jsn, any_keys=())` to print attractively to standard output.
 
+Test suite runs as `py.test test` from the top-level directory.
+
 [end]
